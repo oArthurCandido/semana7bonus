@@ -1,0 +1,23 @@
+O que é o NEXTJS?
+
+É um framework baseado em React. Ele renderiza o react no lado servidor. Em aplicações React tradicionais toda a interface e chamadas à API é feita pelo lado browser, o que leva a uma espera demasiada por parte do usuário.
+
+SSR = Server Side Rendering
+
+Com isso conseguimos aplicações React mais performáticas e melhor indexadas no google.
+
+Fundamentos.
+
+O que é um Framework Web?
+
+É um sistema opinativo com estrutura e feraamentas já definidas. Eles ajudam no desenvolvimento rápido e seguro de aplicações.
+
+Tipos de aplicações WEB.
+
+SSG: Static Site Generation 
+
+Pode ser puro, escrevendo HTML, CSS e JS ou pode usar um gerador estático.
+
+Começamos o projeto iniciando o npm na pasta separada ara o projeto com npm init e após iniciar o o npm fizemos a criação do projot next com:
+
+npm create next-app
